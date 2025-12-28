@@ -1,0 +1,5 @@
+lxml==6.0.2
+odfdo==3.16.4
+python-docx==1.2.0
+striprtf==0.0.29
+typing_extensions==4.15.0
